@@ -24,19 +24,6 @@
 
 ---
 
-## Projects
-
-<div align="center">
-
-| 프로젝트 | 기간 | 링크 |
-|:-------:|:----:|:----:|
-| **봉투백서** | 2025.06 ~ | - |
-| **beyondU** | 2026.01 ~ | - |
-
-</div>
-
----
-
 ## Activities
 
 ```
@@ -51,7 +38,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chounjae&theme=github_dark&utcOffset=9" height="180"/>
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=unjae007" height="180"/>
 
 </div>

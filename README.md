@@ -38,17 +38,5 @@
 
 ```
 2022.03 ~           숭실대학교 소프트웨어학부 재학 
-```
-
-
-## Status
-
-<div align="center">
-
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=unjae007" height="180"/>
-
-</div>
-
----
-
+``` 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>

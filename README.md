@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=chounjae&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=backend&descSize=20&descAlignY=68&descColor=58a6ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=chounjae&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=software engineer&descSize=20&descAlignY=68&descColor=58a6ff"/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:blueskycuj@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@max-ph/posts)

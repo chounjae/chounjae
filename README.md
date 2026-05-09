@@ -11,7 +11,7 @@
 
 ---
 
-## Skills
+## Skills 🛠️
 
 <div align="center">
 
@@ -24,17 +24,15 @@
 
 ---
 
-## Activities
+## Activities 🚀 
 
-```
-2025.03 ~ 2025.07   SOPT 36기 서버 YB 수료
-2025.09 ~           숭실대 개발 동아리 Yourssu Backend
-2026.03 ~           AI·SW 마에스트로 17기
-```
+* **[SOPT](https://sopt.org/)** | 36기 서버 YB 수료 (2025.03 - 2025.07)
+* **[YOURSSU](https://yourssu.com/)** | Backend Developer (2025.09 - Present)
+* **[SW Maestro](https://www.swmaestro.org/)** | 17기 연수생 (2026.03 - Present)
 
 ---
 
-## Career
+## Career 👨‍🎓
 
 ```
 2022.03 ~           숭실대학교 소프트웨어학부 재학 

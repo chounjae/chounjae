@@ -43,8 +43,8 @@
 |:--|:--|:--|
 | **[봉투백서](https://github.com/bongtubaekseo/BongBaek-Server)** | 사회초년생을 위한 경조사비 추천·관리 앱 서비스 | - 가입자 173명 <br>- nginx 이중화 무중단 롤링 배포<br>- Prometheus·Grafana 모니터링 |
 | **[BeyondU](https://github.com/yourssu/BeyondU-backend)** | 숭실대학교 학생을 위한 교환학생 준비 웹 서비스 | **- 55개국 326개** 교환 대학 데이터<br>- 어학·전공·GPA 조건 검색 API |
-| **[Signal](https://github.com/yourssu/signal-backend)** | 숭실대학교 축제 기간 데이팅 웹 서비스 | - 5일간 **78만 요청**, 피크 63 RPS<br>- p99 **99ms**, 5xx 0.001%<br>- 방문자 4,600명 · 프로필 1,107건 · 결제 671건 |
-| **[haruharu](https://github.com/SOMA-DAILY/haruharu-BE)** | 대학생끼리 만나는 가장 자연스러운 데이팅 앱 서비스 | - ECS Fargate **4서비스** 운영<br>- 베타 1·2기 영상 2,054 · 채팅 2,952 · 푸시 22,644<br>- 메타 광고 기수별 집행, 신청 CPA **12,690원 → 5,200원** |
+| **[Signal](https://github.com/yourssu/signal-backend)** | 숭실대학교 축제 기간 데이팅 웹 서비스 | - 5일간 **78만 요청**, 피크 63 RPS<br>- p99 **111ms**, 5xx 0.001%<br>- 방문자 4,600명 · 프로필 1,107건 · 결제 671건 |
+| **[haruharu](https://github.com/SOMA-DAILY/haruharu-BE)** | 대학생끼리 만나는 가장 자연스러운 데이팅 앱 서비스 | - ECS Fargate **4서비스** 운영<br>- 베타 1·2기 영상 2,054 · 채팅 2,952 · 푸시 22,644<br>- 메타 광고 CTR, CVR 단위로 퍼포먼스 마케팅|
  
 ---
 
